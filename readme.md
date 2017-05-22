@@ -7,7 +7,7 @@
 
 ## Prueba
 
-La prueba consiste en desarrollar una API para gestionar un perfil de usuarios, desarrollado utilizando estándares de desarrollo PSR-2, PSR-3, PSR-4, manejando algún framework y/o libreria, y para el uso de librerías externas con composer. Todas las respuestas deben ser json, el proyecto debe tener en un sistema de versiones git y cargado a Github, bebé tener test unitario y/o pruebas funcionales, el código como sus comentarios deben estar en inglés y tener documentación de instalación y configuración.
+La prueba consiste en desarrollar una API para gestionar un perfil de usuarios, desarrollado utilizando estándares de desarrollo PSR-2, PSR-3, PSR-4, manejando algún framework y/o libreria, y para el uso de librerías externas con composer. Todas las respuestas deben ser json, el proyecto debe tener en un sistema de versiones git y cargado a Github, debe tener test unitario y/o pruebas funcionales, el código como sus comentarios deben estar en inglés y tener documentación de instalación y configuración.
 
 ## Características del proyecto
 
