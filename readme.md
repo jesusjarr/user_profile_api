@@ -15,9 +15,9 @@ El proyecto se desarrolló con el framework Laravel 5, se decidió realizar este
 
 ##  Indice
 
-* Prueba	
-* Características del proyecto
-* Instalación y Configuración
+*   Prueba	
+*   Características del proyecto
+*   Instalación y Configuración
 *   Requerimientos
 *   Instalación
 *       Clonamos el proyecto
@@ -25,13 +25,13 @@ El proyecto se desarrolló con el framework Laravel 5, se decidió realizar este
 *       Configuración de conexión de base de datos
 *       Creamos la tabla users con php artisan migration
 *       Fin de la instalación
-* Pruebas funcionales
-*   Consultar un usuario
-*   Crear un usuario
-*   Eliminar un usuario
-*   Editar un usuario
-*   Cargar una imagen
-* Logs
+*   Pruebas funcionales
+*       Consultar un usuario
+*       Crear un usuario
+*       Eliminar un usuario
+*       Editar un usuario
+*       Cargar una imagen
+*   Logs
 
 
 ## Documentación completa
