@@ -36,4 +36,4 @@ El proyecto se desarrolló con el framework Laravel 5, se decidió realizar este
 
 ## Documentación completa
 
-[Documentación](https://drive.google.com/open?id=0B9KHVZF2dbTKUHZueWw3X2E2RFU)
+<a href="https://drive.google.com/open?id=0B9KHVZF2dbTKNklvV3M4Tl9qWTA" target="_blank">Documentación</a>
