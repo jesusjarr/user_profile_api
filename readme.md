@@ -1,5 +1,5 @@
 
-# [api_profile_user](https://github.com/jesusjarr/user_profile_api)
+# [User Profile API](https://github.com/jesusjarr/user_profile_api)
 
 ## GITHUB
 
